@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 It now includes steps for GitHub2
+
+changed by update-readme
